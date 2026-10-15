@@ -1,0 +1,10 @@
+{
+  "name": "scalable",
+  "description": "Create and improve Amazon listing images and A+ content with Scalable's hosted MCP tools.",
+  "version": "0.1.2",
+  "author": {
+    "name": "Scalable",
+    "url": "https://scalable.so"
+  },
+  "homepage": "https://github.com/scalable-so/scalable-claude-plugin"
+}

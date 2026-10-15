@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "cases": [
+    { "prompt": "Create listing images for my Amazon product with Scalable", "select": true },
+    { "prompt": "Improve the A+ content for my Amazon product in Scalable", "select": true },
+    { "prompt": "Generate Amazon gallery images in Scalable", "select": true },
+    { "prompt": "Edit this portrait photo without using Scalable", "select": false },
+    { "prompt": "Create product images for my Shopify store", "select": false },
+    { "prompt": "Scalable is broken; help me troubleshoot the app", "select": false }
+  ]
+}

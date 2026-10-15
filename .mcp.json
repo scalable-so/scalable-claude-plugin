@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scalable": {
+      "type": "http",
+      "url": "https://scalable.so/api/mcp"
+    }
+  }
+}

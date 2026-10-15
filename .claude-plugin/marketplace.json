@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "scalable",
+  "description": "Scalable's public Claude Code plugin for product workflows and hosted MCP access.",
+  "owner": {
+    "name": "Scalable",
+    "email": "support@scalable.so"
+  },
+  "plugins": [
+    {
+      "name": "scalable",
+      "description": "Scalable product workflows with hosted MCP access.",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
